@@ -1,0 +1,6 @@
+asgiref==3.9.1
+Django==5.0
+pillow @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_94x67n90dt/croot/pillow_1752524540258/work
+setuptools==78.1.1
+sqlparse==0.5.3
+wheel==0.45.1
